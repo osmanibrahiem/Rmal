@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Rmal</string>
+    <string name="action_settings">Settings</string>
+    <string name="enter_your_email">Enter your Email</string>
+    <string name="email_is_reburied">Your Email is reburied to upload or view your images/videos on our server</string>
+    <string name="title_activity_view_all">ViewAllActivity</string>
+    <string name="requried">Requried</string>
+    <string name="invalid_email">email is not valid</string>
+    <string name="title_activity_upload">UploadActivity</string>
+    <string name="your_email">Your Email</string>
+    <string name="pick">Pick image/video</string>
+</resources>
